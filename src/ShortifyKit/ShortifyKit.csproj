@@ -4,7 +4,7 @@
     <TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
     <IsPackable>true</IsPackable>
     <PackageId>ShortifyKit</PackageId>
-    <Version>1.0.0</Version>
+    <Version>100.42.1</Version>
     <Title>ShortifyKit</Title>
     <Description>Typed .NET client for the Shortify URL-shortening API: API-key auth, short links (create, bulk, list/search, edit, pause, delete), idempotent creates, click analytics, usage and quota, branded domains with DNS verification, and plans.</Description>
     <PackageTags>shortify url-shortener short-link link-shortener analytics api-key httpclient aspnetcore</PackageTags>
